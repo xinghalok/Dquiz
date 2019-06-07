@@ -15,7 +15,7 @@ Press the fork button in top-right corner
 **Clone repository**
 
 ```sh
-$ git clone "https://username.github.io/Django-Template
+$ git clone "https://github.com/username/Django-Template.git
 ```
 
 **Making Virtual Environment**
