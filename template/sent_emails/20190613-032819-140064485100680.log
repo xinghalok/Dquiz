@@ -1,0 +1,26 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Subject: Password reset on 127.0.0.1:8000
+From: webmaster@localhost
+To: pande.akshat21@gmail.com
+Date: Wed, 12 Jun 2019 21:58:19 -0000
+Message-ID: 
+ <156037669910.21128.14812127662081967429@akshat0047-HP-Pavilion-15-Notebook-PC>
+
+
+You're receiving this email because you requested a password reset for your user account at 127.0.0.1:8000.
+
+Please go to the following page and choose a new password:
+
+http://127.0.0.1:8000/accounts/reset/MQ/575-010a02427cdb0c6a5b53/
+
+Your username, in case you've forgotten: akshat0047
+
+Thanks for using our site!
+
+The 127.0.0.1:8000 team
+
+
+
+-------------------------------------------------------------------------------
